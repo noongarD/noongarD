@@ -1,63 +1,61 @@
-# Hi, I'm Oliwier
+# Oliwier
 
-I'm learning backend development and building small portfolio projects to practice real-world workflows: APIs, databases, tests, Docker, CI/CD, documentation, and basic cloud deployment ideas.
+Backend-focused developer building practical portfolio projects with .NET, Python, SQL, Docker, and cloud-oriented workflows.
 
-I like projects that are simple enough to understand, but complete enough to show how they would be used by another person.
+I focus on small but complete systems: REST APIs, data pipelines, automation workflows, tests, documentation, CI, and deployment-ready architecture sketches.
 
-## Portfolio Projects
+## Featured Projects
+
+### [DocuMind Pipeline](https://github.com/noongarD/documind-pipeline)
+
+Python document intelligence pipeline for business documents. It classifies documents, extracts metadata, recommends follow-up actions, emits trace events, and includes an AWS serverless Terraform blueprint.
+
+**Stack:** Python, AWS, Terraform, LangGraph-ready workflow, pytest, ruff
 
 ### [MiniSprintBoard](https://github.com/noongarD/MiniSprintBoard)
 
-A small ASP.NET Core REST API for tracking simple team tasks.
+ASP.NET Core task-tracking REST API with SQL Server persistence, EF Core, unit and integration tests, Docker Compose, GitHub Actions CI, and AWS deployment notes.
 
-What it shows:
-- C# and ASP.NET Core Minimal API
-- REST endpoints
-- SQL Server with Entity Framework Core
-- unit and integration tests
-- Docker and Docker Compose
-- GitHub Actions CI
-- AWS learning notes
+**Stack:** C#, ASP.NET Core, EF Core, SQL Server, Docker, GitHub Actions
+
+### [Data Engineering Portfolio](https://github.com/noongarD/data-engineering-portfolio)
+
+Three Dockerized data engineering projects covering API ingestion, ELT/warehouse modeling, PostgreSQL schemas, FastAPI services, data quality checks, and tests.
+
+**Stack:** Python, FastAPI, PostgreSQL, Docker, pytest
+
+### [GameOps Analytics](https://github.com/noongarD/gameops-analytics)
+
+Automated analytics pipeline for game telemetry with local ETL scripts, SQLite storage, scheduled processing, and reporting-oriented outputs.
+
+**Stack:** Python, SQLite, automation, analytics
 
 ### [SEO LocalBoost Portfolio](https://github.com/noongarD/seo-localboost-portfolio)
 
-A static local SEO landing page for a fictional computer repair service.
+Local SEO portfolio site with semantic HTML, technical SEO assets, structured data, a mini audit tool, documentation, and a GitHub Pages demo.
 
-What it shows:
-- semantic HTML and CSS
-- basic JavaScript
-- technical SEO files: `robots.txt`, `sitemap.xml`, canonical links
-- structured data with JSON-LD
-- simple SEO audit tool
-- documentation and screenshots
+**Stack:** HTML, CSS, JavaScript, technical SEO  
+**Demo:** [noongard.github.io/seo-localboost-portfolio](https://noongard.github.io/seo-localboost-portfolio/)
 
-Live demo: [noongard.github.io/seo-localboost-portfolio](https://noongard.github.io/seo-localboost-portfolio/)
+### [Nightcore Automation Factory](https://github.com/noongarD/nightcore-automation-factory)
 
-### [nightcore-automation-factory](https://github.com/noongarD/nightcore-automation-factory)
+Local-first media automation workflow using n8n, Playwright, FFmpeg, Whisper, and a browser-based control panel.
 
-A local-first automation project for generating short video/audio workflows.
+**Stack:** n8n, Playwright, FFmpeg, Whisper, PowerShell, HTML
 
-What it shows:
-- HTML interface
-- workflow automation
-- use of local tools and scripts
-- experimentation with media processing
+## Technical Focus
 
-## Currently Learning
+- Backend APIs and service design
+- SQL databases and data modeling
+- Python automation and data pipelines
+- Dockerized local development environments
+- Tests, CI, and clean project documentation
+- Practical cloud architecture notes with AWS
 
-- C# and .NET
-- REST API design
-- SQL Server
-- unit and integration testing
-- Docker
-- GitHub Actions
-- AWS basics
-- clean project documentation
+## Repository Guide
 
-## Tools I Use
+The pinned and featured repositories are the main portfolio projects. Smaller repositories are kept as focused learning projects when they demonstrate a specific concept, dataset, or programming technique.
 
-`C#` `ASP.NET Core` `SQL Server` `Entity Framework Core` `Docker` `GitHub Actions` `HTML` `CSS` `JavaScript` `Python`
+## Tools
 
-## How I Work
-
-I try to keep my projects small, documented, and easy to run. My goal is to build proof that I can learn, ask better questions, and improve projects step by step.
+`C#` `ASP.NET Core` `Python` `FastAPI` `SQL Server` `PostgreSQL` `SQLite` `Entity Framework Core` `Docker` `GitHub Actions` `AWS` `Terraform` `HTML` `CSS` `JavaScript`
