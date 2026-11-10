@@ -8,7 +8,7 @@ Lately I've been building local media workflows, from rendering and lyric alignm
 
 ### [Nightcore Automation Factory](https://github.com/noongarD/nightcore-automation-factory)
 
-Local media pipeline that turns audio and artwork into YouTube visualizers, vertical shorts, and thumbnails. It aligns lyrics with Whisper, encodes video with FFmpeg, and can retry publishing finished videos without rendering them again.
+Local media pipeline with a shared, audio-reactive visualizer for 1080p60 YouTube videos and 1080 × 1920 Shorts and TikToks at 60 fps. It derives the color palette from the artwork, aligns lyrics with Whisper, and packages renders for publishing. [n8n workflow example](https://github.com/noongarD/nightcore-automation-factory/blob/main/n8n/nightcore-workflow.example.json)
 
 **Stack:** n8n, Node.js, Playwright, FFmpeg, Whisper, PowerShell
 
