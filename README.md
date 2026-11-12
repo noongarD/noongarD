@@ -44,6 +44,7 @@ ASP.NET Core REST API for tracking team tasks, with SQL Server persistence and u
 
 ## More Projects
 
+- [Ticket Quality Kit](https://github.com/noongarD/ticket-quality-kit): Python CLI that lints development tickets before they reach developers, plus a reusable AI ticket-review prompt and four anonymized PM case studies.
 - [AI Review Board](https://github.com/noongarD/ai-review-board): Blazor app that flags risky patterns in C# snippets and stores review findings in PostgreSQL.
 - [Data Engineering Portfolio](https://github.com/noongarD/data-engineering-portfolio): Three Dockerized projects covering API ingestion, PostgreSQL warehouse modeling, and data quality monitoring.
 - [GamePatch Copilot](https://github.com/noongarD/gamepatch-copilot): Demo that groups player feedback into patch priorities, QA checks, and experiments using a local mock model.
